@@ -15617,6 +15617,12 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "ASPExample",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\energ\\Desktop\\C#\\С#8\\Test\\ASPExample\\Pages\\index.cshtml",
+      "TargetPath": "Pages\\index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
