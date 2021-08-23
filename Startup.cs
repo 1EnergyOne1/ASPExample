@@ -26,22 +26,19 @@ namespace ASPExample
                 app.UseDeveloperExceptionPage();
             }
             else
-            {
-                app.UseHsts(); // использование механизма дополнительного усовершенствования безопасности
-            }
+        {
+            app.UseExceptionHandler("/Home/Error");
+            app.UseHsts();
+        }
 
+            app.UseHttpsRedirection();
+
+            app.UseStaticFiles();
             app.UseRouting();
-            app.UseHttpsRedirection(); // перенаправление с HTTP в HTTPS
-
-            app.UseDefaultFiles(); //index.html, default.html.... // выполняется перед USeStaticFiles, в ином случае не сработает
-            app.UseStaticFiles(); // использовать статические файлы
 
             app.UseEndpoints(endpoints =>
             {
-                //  endpoints.MapGet("/", async context =>   // оператор направляет любой запрос GET на возврат ответа Hello World! В данном случае он не нужен
-                //  {
-                //      await context.Response.WriteAsync("Hello World!");
-                //  });
+               endpoints.MapDefaultControllerRoute();
             });
         }
     }
