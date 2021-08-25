@@ -41,7 +41,8 @@ namespace ASPExample
 
             app.UseEndpoints(endpoints =>
             {
-               endpoints.MapDefaultControllerRoute();
+               //endpoints.MapDefaultControllerRoute();
+               endpoints.MapRazorPages();
             });
         }
     }

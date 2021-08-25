@@ -21,3 +21,14 @@ C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.dll
 C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ref\ASPExample.dll
 C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.pdb
 C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.genruntimeconfig.cache
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\bin\Debug\net5.0\ASPExample.Views.dll
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\bin\Debug\net5.0\ASPExample.Views.pdb
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.RazorAssemblyInfo.cache
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.RazorAssemblyInfo.cs
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.TagHelpers.input.cache
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.TagHelpers.output.cache
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.RazorCoreGenerate.cache
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\Razor\Pages\index.cshtml.g.cs
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.RazorTargetAssemblyInfo.cs
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.Views.pdb
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.csproj.CopyComplete

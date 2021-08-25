@@ -1,3 +1,12 @@
+@page
+@functions
+{
+    public string DayName{get;set;}
+    public void OnGet()
+    {
+        Model.DayName = DateTime.Now.ToString("dddd");
+    }
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,13 +23,17 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
 <body>
 <div class="container">
 <div class="jumbotron">
-<h1 class="display-3">Welcome to Northwind!</h1>
-<p class="lead">We supply products to our customers.</p>
+<h1 class="display-3">Welcome to EnergyOne`s World!</h1>
+<p class="lead">Данная страница создана исключительно в ознакомительных целях автора с инструментами ASP.NET</p>
+<p>
+    <button>Сюда щас сделаю какой-то функционал</button>
+</p>
 <hr />
-<p>Our customers include restaurants, hotels, and cruise lines.</p>
+
+<p>Сегодня @Model.DayName! А значит время заглянуть в моё SinglePage веб-приложение на Razor Pages!</p>
 <p>
 <a class="btn btn-primary"
-href="https://www.asp.net/">Learn more</a>
+href="https://vk.com/eoneme">Моя страница Вк</a>
 </p>
 </div>
 </div>
