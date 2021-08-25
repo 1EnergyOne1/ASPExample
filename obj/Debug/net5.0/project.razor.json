@@ -15619,6 +15619,21 @@
   "RootNamespace": "ASPExample",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\energ\\Desktop\\C#\\С#8\\Test\\ASPExample\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\energ\\Desktop\\C#\\С#8\\Test\\ASPExample\\Pages\\names.cshtml",
+      "TargetPath": "Pages\\names.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\energ\\Desktop\\C#\\С#8\\Test\\ASPExample\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\energ\\Desktop\\C#\\С#8\\Test\\ASPExample\\Pages\\index.cshtml",
       "TargetPath": "Pages\\index.cshtml",
       "FileKind": "mvc"

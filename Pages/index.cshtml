@@ -4,24 +4,10 @@
     public string DayName{get;set;}
     public void OnGet()
     {
+        ViewData["Title"] = "EnergyOne`s Веб-приложение";
         Model.DayName = DateTime.Now.ToString("dddd");
     }
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Required meta tags -->
-<meta charset="utf-8" />
-<meta name="viewport" content=
-"width=device-width, initial-scale=1, shrink-to-fit=no" />
-<!-- Bootstrap CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" 
-integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-
-<title>Welcome ASP.NET Core!</title>
-</head>
-<body>
-<div class="container">
 <div class="jumbotron">
 <h1 class="display-3">Welcome to EnergyOne`s World!</h1>
 <p class="lead">Данная страница создана исключительно в ознакомительных целях автора с инструментами ASP.NET</p>
@@ -32,10 +18,6 @@ integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/
 
 <p>Сегодня @Model.DayName! А значит время заглянуть в моё SinglePage веб-приложение на Razor Pages!</p>
 <p>
-<a class="btn btn-primary"
-href="https://vk.com/eoneme">Моя страница Вк</a>
+<a class="btn btn-primary" href="names">Другая страница (с именами разработчика и его группы поддержки)</a>
 </p>
 </div>
-</div>
-</body>
-</html>

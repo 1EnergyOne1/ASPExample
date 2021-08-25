@@ -32,3 +32,6 @@ C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\Razor\Pages\inde
 C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.RazorTargetAssemblyInfo.cs
 C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.Views.pdb
 C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\ASPExample.csproj.CopyComplete
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\energ\Desktop\C#\С#8\Test\ASPExample\obj\Debug\net5.0\Razor\Pages\names.cshtml.g.cs
